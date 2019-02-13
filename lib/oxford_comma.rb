@@ -10,6 +10,7 @@ def oxford_comma(array)
     array.join(", ") + ", and " + "#{last_element}"
     
   else
+    
   end
   
 end
